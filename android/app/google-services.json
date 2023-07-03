@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "450957344126",
+    "project_id": "constructionmanagement-d16dc",
+    "storage_bucket": "constructionmanagement-d16dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:450957344126:android:ef6b56f79d3d530465472f",
+        "android_client_info": {
+          "package_name": "com.example.task_today"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "450957344126-04416bqb5v08eg9796aea2lj6n8l936n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ahzgXgpULH9r9P0Bn5E-nct5xbS9gqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "450957344126-04416bqb5v08eg9796aea2lj6n8l936n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
